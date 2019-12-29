@@ -1,0 +1,6 @@
+framework module Pods_CommonSDImage_Example {
+  umbrella header "Pods-CommonSDImage_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

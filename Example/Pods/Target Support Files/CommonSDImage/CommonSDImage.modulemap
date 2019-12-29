@@ -1,0 +1,6 @@
+framework module CommonSDImage {
+  umbrella header "CommonSDImage-umbrella.h"
+
+  export *
+  module * { export * }
+}
